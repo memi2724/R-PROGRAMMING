@@ -29,18 +29,6 @@ Experiments 9, 16, 17 and 18 produce plots; open those scripts in RStudio to vie
 - [Experiment 19: Simple regression (Sales ~ Spend)](#19)
 - [Experiment 20: Multiple regression on ChickWeight](#20)
 - [Experiment 21: Logistic regression on iris with 80/20 split](#21)
-- [Practice Question 1: If-else and arithmetic/boolean operators](#p01)
-- [Practice Question 2: For loop: multiplication table](#p02)
-- [Practice Question 3: While loop: sum of digits](#p03)
-- [Practice Question 4: break and next](#p04)
-- [Practice Question 5: Looping over a list](#p05)
-- [Practice Question 6: Default argument values](#p06)
-- [Practice Question 7: Explicit and implicit return](#p07)
-- [Practice Question 8: Returning multiple values as a list](#p08)
-- [Practice Question 9: Functions are objects](#p09)
-- [Practice Question 10: Recursion: factorial](#p10)
-- [Practice Question 11: Recursion: Fibonacci series](#p11)
-
 <a id="01"></a>
 ## Experiment 1: Create numeric, character and logical vectors
 
